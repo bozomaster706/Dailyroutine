@@ -1,0 +1,12 @@
+GÜNLÜK RUTİN - ÇEVRİMDIŞI KURULUM
+
+Bu klasördeki 7 dosyanın HEPSİNİ GitHub deposuna yükle (klasör yok, hepsi ana düzeyde):
+index.html, sw.js, manifest.webmanifest, icon-192.png, icon-512.png, icon-maskable-512.png
+
+Ayrıntılı adımlar sohbette anlatıldı. Kısaca:
+1. GitHub'da "rutin" adlı Public depo aç.
+2. "uploading an existing file" ile bu dosyaları sürükle, "Commit changes".
+3. Settings > Pages > Branch: main, / (root) > Save.
+4. Adres: https://KULLANICIADIN.github.io/rutin/
+5. Telefonda internetliyken aç, "Ana ekrana ekle" / "Uygulamayı yükle".
+6. Eski uygulamadan indirdiğin yedeği Yedek sekmesinden geri yükle.
